@@ -22,4 +22,3 @@ cp config ~/.zshrc
 
 echo
 echo -e "${GREEN}[Установка прошла успешно]${NC}"
-
